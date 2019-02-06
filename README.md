@@ -1,1 +1,2 @@
-# Pr-cticaGit
+# PracticaGit
+#Proyecto de prueba
